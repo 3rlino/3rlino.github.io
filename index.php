@@ -17,19 +17,19 @@
         <div class="sidebar-menu">
             <ul>
             <li>
-                <a href="index.html" class="active"><span class="las la-igloo"></span><span>Beranda</span></a>
+                <a href="index.php" class="active"><span class="las la-home"></span><span>Beranda</span></a>
             </li>
             <li>
-                <a href="master.php"><span class="las la-users"></span><span>Master Data</span></a>
+                <a href="master.php"> <span class="las la-database"></span><span>Master Data</span></a>
             </li>
             <li>
-                <a href="keputusan.php"><span class="las la-check-circle"></span><span>Matriks Keputusan</span></a>
+                <a href="keputusan.php"><span class="las la-chart-bar"></span><span>Matriks Keputusan</span></a>
             </li>
             <li>
-                <a href=""><span class="las la-igloo"></span><span>Perhitungan TOPSIS</span></a>
+                <a href="perhitungan.php"><span class="las la-calculator"></span><span>Perhitungan TOPSIS</span></a>
             </li>
             <li>
-                <a href=""><span class="las la-igloo"></span><span>Laporan</span></a>
+                <a href="laporan.php"><span class="las la-file-alt"></span><span>Laporan</span></a>
             </li>
             </ul>
         </div>
