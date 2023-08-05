@@ -62,7 +62,7 @@
             <div class="cards">
                 <div class="card-single">
                     <div>
-                        <h1>54</h1>
+                    <button>sea all<a href="mahasiswa.php"></a> <span class="las la-arrow-right"></span></button>
                         <span>Data Mahasiswa</span>
                     </div>
                     <div>
@@ -85,15 +85,6 @@
                     </div>
                     <div>
                     <span class="las la-exchange-alt"></span>
-                    </div>
-                </div>
-                <div class="card-single">
-                    <div>
-                        <h1>54</h1>
-                        <span>User</span>
-                    </div>
-                    <div>
-                        <span class="las la-users"></span>
                     </div>
                 </div>
             </div>

@@ -66,34 +66,7 @@
                         <span>Data Mahasiswa</span>
                     </div>
                     <div>
-                    <span class="las la-graduation-cap"></span>
-                    </div>
-                </div>
-                <div class="card-single">
-                    <div>
-                        <h1>54</h1>
-                        <span>Data Kriteria</span>
-                    </div>
-                    <div>
-                    <span class="las la-list"></span>
-                    </div>
-                </div>
-                <div class="card-single">
-                    <div>
-                        <h1>54</h1>
-                        <span>Data Konversi</span>
-                    </div>
-                    <div>
-                    <span class="las la-exchange-alt"></span>
-                    </div>
-                </div>
-                <div class="card-single">
-                    <div>
-                        <h1>54</h1>
-                        <span>User</span>
-                    </div>
-                    <div>
-                        <span class="las la-users"></span>
+                    <span class="las la-file-alt"></span>
                     </div>
                 </div>
             </div>
